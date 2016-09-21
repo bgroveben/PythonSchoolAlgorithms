@@ -17,7 +17,7 @@ def selection_sort(my_list):
 
 some_list = [54,26,93,17,77,31,44,55,20]
 selection_sort(some_list)
-print(my_list)
+print(some_list)
 
 test = [13,14,94,33,82,25,59,94,65,23,45,27,73,25,39,10]
 selection_sort(test)
