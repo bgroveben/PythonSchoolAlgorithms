@@ -4,7 +4,9 @@ Starting off with some sorting algorithms using Python 3.5.x
 
 [Wikibooks] (https://en.wikibooks.org/wiki/Algorithm_Implementation) also has a laundry list of algorithms.  
 
-Up next: [Comb sort](https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Comb_sort)
+Up next: [Bucket sort] (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Bucket_sort)
+
+[Binary Tree sort] (http://interactivepython.org/runestone/static/pythonds/Trees/SearchTreeImplementation.html) will have to wait until my next day off.
 
 [Toptal] (https://www.toptal.com/developers/sorting-algorithms) has some cool animations to check out.
 
