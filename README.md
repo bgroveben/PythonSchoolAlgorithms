@@ -1,10 +1,12 @@
 Starting off with some sorting algorithms using Python 3.5.x
 
+Up next: [Radix sort] (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Radix_sort#Python_LSD_radix_sort)
+
 [Wikipedia] (https://en.wikipedia.org/wiki/Sorting_algorithm) has a nice collection.
 
-[Wikibooks] (https://en.wikibooks.org/wiki/Algorithm_Implementation) also has a laundry list of algorithms.  
+[Wikibooks] (https://en.wikibooks.org/wiki/Algorithm_Implementation) also has a laundry list of algorithms.
 
-Up next: [Bucket sort] (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Bucket_sort)
+[NIST Dictionary of Algorithms and Data Structures] (https://xlinux.nist.gov/dads//).
 
 [Binary Tree sort] (http://interactivepython.org/runestone/static/pythonds/Trees/SearchTreeImplementation.html) will have to wait until my next day off.
 
