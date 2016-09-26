@@ -1,6 +1,6 @@
 Starting off with some sorting algorithms using Python 3.5.x
 
-Up next: [Radix sort] (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Radix_sort#Python_LSD_radix_sort)
+Up next: Pick something from [Wikibooks] (https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting) and go.
 
 [Wikipedia] (https://en.wikipedia.org/wiki/Sorting_algorithm) has a nice collection.
 
