@@ -18,3 +18,13 @@ if __name__=="__main__":
     this_list = [5, 2, 7, 1, 9, 3, 6, 8, 4]
     sorted_list = bubble_sort(this_list)
     print(sorted_list)
+
+# A note about bubble sort and its refinements/relatives/offspring from Donald Knuth -
+#
+# "But none of these refinements leads to an algorithm better than straight insertion [that is, insertion sort];
+#  and we already know that straight insertion isn't suitable for large N. [...] In short, the bubble sort seems
+#  to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical
+#  problems."
+#
+# Knuth, Donald E. (1973). "Sorting by Exchanging". Art of Computer Programming. 3. Sorting and Searching (1st ed.).
+# Addison-Wesley. pp. 110–111. ISBN 0-201-03803-X.
