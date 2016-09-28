@@ -1,3 +1,4 @@
+# https://pythonschool.net/data-structures-algorithms/binary-search/
 # Binary search function used to find an item in an ordered list.
 # Binary search divides the list in half on each iteration.
 # If the item is the midpoint, you have found it.

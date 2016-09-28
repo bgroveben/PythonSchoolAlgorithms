@@ -8,8 +8,6 @@ Up next: Pick something from [Wikibooks] (https://en.wikibooks.org/wiki/Algorith
 
 [NIST Dictionary of Algorithms and Data Structures] (https://xlinux.nist.gov/dads//).
 
-[Binary Tree sort] (http://interactivepython.org/runestone/static/pythonds/Trees/SearchTreeImplementation.html) will have to wait until my next day off.
-
 [Toptal] (https://www.toptal.com/developers/sorting-algorithms) has some cool animations to check out.
 
 If you wish, you can watch the code executed step by step at [pythontutor.com] (http://www.pythontutor.com/visualize.html#mode=edit)
