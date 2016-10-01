@@ -3,7 +3,7 @@ Moving on to some searching algorithms using Python 3.5.x
 From nryoung on [Github] (https://github.com/nryoung/algorithms/tree/master/algorithms/searching).  
 Docs can be found [here] (http://algorithms.readthedocs.io/en/latest/searching.html.)
 
-Next up: [Depth-first search] (https://github.com/nryoung/algorithms/blob/master/algorithms/searching/depth_first_search.py)
+Next up: [KMP search] (https://github.com/nryoung/algorithms/blob/master/algorithms/searching/kmp_search.py)
 
 [NIST Dictionary of Algorithms and Data Structures] (https://xlinux.nist.gov/dads//).
 
