@@ -3,7 +3,7 @@ Moving on to some searching algorithms using Python 3.5.x
 From nryoung on [Github] (https://github.com/nryoung/algorithms/tree/master/algorithms/searching).  
 Docs can be found [here] (http://algorithms.readthedocs.io/en/latest/searching.html.)
 
-Next up: Boyer Moore search [here] (https://gist.github.com/ameerkat/626643) and [here] (https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm) -- Python code at the bottom.  
+Next up: [Brute Force Search] (http://algo.pw/algo/24/python)   
 
 [NIST Dictionary of Algorithms and Data Structures] (https://xlinux.nist.gov/dads//).
 
