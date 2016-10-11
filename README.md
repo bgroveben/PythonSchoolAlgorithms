@@ -3,7 +3,7 @@ Moving on to some searching algorithms using Python 3.5.x
 From nryoung on [Github] (https://github.com/nryoung/algorithms/tree/master/algorithms/searching).  
 Docs can be found [here] (http://algorithms.readthedocs.io/en/latest/searching.html.)
 
-Next up: [Brute Force Search] (http://algo.pw/algo/24/python)   
+Next up: [Aho–Corasick string matching algorithm] (http://algo.pw/algo/64/python)   
 
 [NIST Dictionary of Algorithms and Data Structures] (https://xlinux.nist.gov/dads//).
 
